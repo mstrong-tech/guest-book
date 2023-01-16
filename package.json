@@ -35,7 +35,7 @@
     "parcel-bundler": "^1.12.5",
     "react-test-renderer": "^17.0.2",
     "sass": "^1.51.0",
-    "ava": "^4.2.0",
+    "ava": "^5.1.1",
     "near-workspaces": "^2.0.0",
     "typescript": "^4.6.4",
     "ts-node": "^10.7.0"
